@@ -25,7 +25,7 @@ My first bioinformatics project — built to learn and demonstrate skills in Com
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/DNA-Sequence-Statistics.git
+git clone https://github.com/MahdiyehShateri/DNA-Sequence-Statistics.git
 cd DNA-Sequence-Statistics
 pip install -r requirements.txt
 streamlit run app.py
