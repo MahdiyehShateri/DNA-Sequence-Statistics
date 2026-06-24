@@ -28,4 +28,4 @@ My first bioinformatics project — built to learn and demonstrate skills in Com
 git clone https://github.com/MahdiyehShateri/DNA-Sequence-Statistics.git
 cd DNA-Sequence-Statistics
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run App.py
